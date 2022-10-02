@@ -3,7 +3,7 @@ package com.upskill_5;
 public class Encapsulation {
 	
 	private String name = "Rasha";  // read & write only
-	private int SSN = 12345;             // write only
+	private int SSN = 123456;             // write only
 	private String username= "Upskill";         //read only
 	
 	//setter method- name
